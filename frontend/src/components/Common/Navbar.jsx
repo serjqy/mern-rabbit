@@ -25,9 +25,10 @@ const Navbar = () => {
             Rabbit
           </Link>
         </div>
+        {/* Desktop - Nav Links */}
         <div className="hidden md:flex gap-5">
           <Link
-            to="#"
+            to="/collections/all"
             className="text-gray-700 hover:text-black text-md font-medium uppercase transition duration-300 ease-in-out"
           >
             Men
@@ -90,6 +91,7 @@ const Navbar = () => {
             <IoMdClose className="h-6 w-6" />
           </button>
         </div>
+        {/* Mobile - Nav Links */}
         <div className="p-4">
           <h2 className="text-xl font-semibold mb-4">Menu</h2>
           <nav className="space-y-4">
