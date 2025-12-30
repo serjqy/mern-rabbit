@@ -24,7 +24,7 @@ const Register = () => {
           </div>
           <h2 className="text-2xl font-bold text-center mb-6">Hey there!</h2>
           <p className="text-center mb-6">
-            Enter your username and password to Login
+            Enter your username, email and password to Register
           </p>
           <div className="mb-4">
             <label className="block text-md font-semibold mb-2">Name</label>
