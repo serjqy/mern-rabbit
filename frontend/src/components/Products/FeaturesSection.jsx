@@ -13,7 +13,7 @@ const FeaturesSection = () => {
           <h4 className="tracking-tighter mb-2 uppercase">
             Free International Shipping
           </h4>
-          <p className="text-gray-600 text-sm tracking-tighter">
+          <p className="text-gray-600 text-md tracking-tighter">
             On all orders over $100
           </p>
         </div>
@@ -22,7 +22,7 @@ const FeaturesSection = () => {
             <HiArrowPathRoundedSquare className="text-xl" />
           </div>
           <h4 className="tracking-tighter mb-2 uppercase">45 Days Return</h4>
-          <p className="text-gray-600 text-sm tracking-tighter">
+          <p className="text-gray-600 text-md tracking-tighter">
             Money back guarantee
           </p>
         </div>
@@ -31,7 +31,7 @@ const FeaturesSection = () => {
             <HiOutlineCreditCard className="text-xl" />
           </div>
           <h4 className="tracking-tighter mb-2 uppercase">Secure Checkout</h4>
-          <p className="text-gray-600 text-sm tracking-tighter">
+          <p className="text-gray-600 text-md tracking-tighter">
             100% Secure checkout proccess
           </p>
         </div>
